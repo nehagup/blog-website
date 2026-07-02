@@ -3,17 +3,17 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-07-01</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/technology</loc>
-    <lastmod>2026-06-08</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -90,7 +90,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/7-principles-of-software-testing</loc>
-    <lastmod>2026-05-04</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Principles-of-Software-Testing.webp</image:loc>
@@ -503,7 +503,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/automated-software-testing-tools</loc>
-    <lastmod>2026-06-17</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/06/Automated-Software-Testing-Tools-Cover-Image.webp</image:loc>
@@ -1324,7 +1324,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/generative-ai-testing-tools</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/Generative-AI-Testing-Tools-The-Next-Evolution-of-Test-Automation.webp</image:loc>
@@ -1964,6 +1964,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://keploy.io/blog/community/levels-of-software-testing</loc>
+    <lastmod>2026-07-02</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/levels-of-software-testing-feature.png</image:loc>
+      <image:title>Level of software testing</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://keploy.io/blog/community/llm-txt-generator</loc>
     <lastmod>2026-06-08</lastmod>
     <priority>0.70</priority>
@@ -2100,7 +2109,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/model-based-testing</loc>
-    <lastmod>2026-02-26</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/Model-Based-Testing-Benefits-Use-Cases-Best-Practices.webp</image:loc>
@@ -2752,7 +2761,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-testing-life-cycle</loc>
-    <lastmod>2026-03-18</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/03/software-testing-life-cycle-1.webp</image:loc>
@@ -2761,7 +2770,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-testing-metrics-for-qa</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/11/How-to-Use-Software-Testing-Metrics-to-Drive-Better-QA-Decisions.webp</image:loc>
@@ -2992,7 +3001,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-recorder-guide</loc>
-    <lastmod>2025-11-14</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/11/Test-Recorder.webp</image:loc>
@@ -3377,7 +3386,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/uft-testing-guide</loc>
-    <lastmod>2026-04-04</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/UFT-Testing.webp</image:loc>
@@ -3745,7 +3754,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-a-test-environment</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/11/20251117_1336_Testing-Setup_simple_compose_01ka8dhnnrfmdvh9sacv67yevf.webp</image:loc>
@@ -3754,7 +3763,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-a-test-script-in-software-testing</loc>
-    <lastmod>2025-11-24</lastmod>
+    <lastmod>2026-07-01</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/11/What-is-a-Test-Script-in-Software-Testing.webp</image:loc>
@@ -4287,7 +4296,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/technology/automated-end-to-end-tests-using-property-based-testing-part-i</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/08/Automated-End-to-Part-I-e1709056278625.webp</image:loc>
