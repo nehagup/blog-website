@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-07-03</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -108,11 +108,11 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/a-guide-to-test-cases-in-software-testing</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-07-02</lastmod>
     <priority>0.70</priority>
     <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2024/08/A-Guide-to-Test-Cases-in-Software-Testing.webp</image:loc>
-      <image:title>Master software testing with our guide on writing effective test cases. Explore types, coverage, and edge cases to boost quality and reduce defects.</image:title>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2024/08/test-cases-in-software-testing-featured.webp</image:loc>
+      <image:title>Test cases in software testing guide covering types, examples and how to write test cases</image:title>
     </image:image>
   </url>
   <url>
@@ -705,6 +705,15 @@
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Black-box-Testing-and-White-Box-Testing.webp</image:loc>
       <image:title>Black box Testing and White Box Testing</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://keploy.io/blog/community/black-box-testing-techniques</loc>
+    <lastmod>2026-07-03</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/Black-Box-Testing-Techniques-A-Practical-Guide-2026.webp</image:loc>
+      <image:title>Black Box Testing Techniques: A Practical Guide (2026)</image:title>
     </image:image>
   </url>
   <url>
