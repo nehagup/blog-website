@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-09</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-07-08</lastmod>
+    <lastmod>2026-07-09</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -368,7 +368,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/api-automation-testing</loc>
-    <lastmod>2026-05-18</lastmod>
+    <lastmod>2026-07-08</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/API-Automation-Testing.webp</image:loc>
@@ -949,6 +949,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://keploy.io/blog/community/contract-testing-tools</loc>
+    <lastmod>2026-07-09</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/12-Best-Contract-Testing-Tools-in-2026.webp</image:loc>
+      <image:title>12 Best Contract Testing Tools in 2026</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://keploy.io/blog/community/copilot-vs-cursor</loc>
     <lastmod>2026-01-28</lastmod>
     <priority>0.70</priority>
@@ -1360,7 +1369,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/getting-started-with-microservices-testing</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-08</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/06/Getting-Started-with-Microservices-Testing.webp</image:loc>
