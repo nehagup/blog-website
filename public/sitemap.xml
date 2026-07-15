@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -646,7 +646,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/best-open-source-test-management-tools</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/06/Open-Source-Test-Management-Tools-in-2026.webp</image:loc>
@@ -1823,7 +1823,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/integration-testing-a-comprehensive-guide</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/ChatGPT-Image-Jun-30-2026-04_35_54-PM.webp</image:loc>
@@ -2583,7 +2583,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/sandbox-testing</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/What-Is-Sandbox-Testing.webp</image:loc>
@@ -2797,7 +2797,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-testing-basics</loc>
-    <lastmod>2026-07-13</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/Software-Testing-Basics-Simplified-A-Guide-for-Beginners.webp</image:loc>
@@ -3019,7 +3019,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-data-management-best-practices</loc>
-    <lastmod>2025-12-22</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/Efficient-Test-Data-Strategies-for-Testing.webp</image:loc>
@@ -3323,7 +3323,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/top-integration-testing-tools</loc>
-    <lastmod>2026-04-04</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/Top-10-Tools-for-Integration-Testing-in-2026.webp</image:loc>
@@ -3889,7 +3889,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-api-testing</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/What-Is-API-Testing.webp</image:loc>
@@ -4015,7 +4015,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-mttr</loc>
-    <lastmod>2026-06-19</lastmod>
+    <lastmod>2026-07-14</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/06/What-Is-MTTR-Definition-Formula-Benchmarks-2026.webp</image:loc>
