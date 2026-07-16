@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -63,7 +63,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/5-best-open-source-api-testing-tools-in-2025</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/5-Best-Open-Source-API-Testing-Tools-in-2025.webp</image:loc>
@@ -81,7 +81,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/7-best-test-data-management-tools-in-2024</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/07/My-Banner-e1721211434531.png</image:loc>
@@ -440,7 +440,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/api-testing-services</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/04/api-testing-services.webp</image:loc>
@@ -449,7 +449,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/api-testing-strategies</loc>
-    <lastmod>2026-05-12</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/04/API-Testing-Strategies-1.webp</image:loc>
@@ -1823,7 +1823,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/integration-testing-a-comprehensive-guide</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/ChatGPT-Image-Jun-30-2026-04_35_54-PM.webp</image:loc>
@@ -2037,7 +2037,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/mastering-api-test-automation-best-practices-and-tools</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/10/Mastering-API-Test-Automation-e1709840517552.webp</image:loc>
@@ -2662,7 +2662,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/soap-api-testing</loc>
-    <lastmod>2025-09-14</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/SOAP-API-Testing-Made-Simple.webp</image:loc>
@@ -2707,7 +2707,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-development-phases</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/10/Software-Development-Phases-e1709664592421.webp</image:loc>
@@ -2734,7 +2734,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-egg-explained</loc>
-    <lastmod>2025-06-19</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/03/software-egg-e1742297354261.png</image:loc>
@@ -2992,7 +2992,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-case-generation-for-faster-api-testing</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/03/How-to-Automate-Test-Case-Generation-for-Faster-API-Testing-scaled-e1741956899445.webp</image:loc>
@@ -3090,7 +3090,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/testing-methodologies-in-software-testing</loc>
-    <lastmod>2026-04-14</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/05/Testing-Methodologies-in-Software-Testing.webp</image:loc>
@@ -3610,7 +3610,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/unit-testing-vs-integration-testing-a-comprehensive-guide</loc>
-    <lastmod>2026-05-06</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/12/Unit-Testing-vs-Integration-Testing.webp</image:loc>
@@ -3889,7 +3889,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-api-testing</loc>
-    <lastmod>2026-07-14</lastmod>
+    <lastmod>2026-07-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/What-Is-API-Testing.webp</image:loc>
