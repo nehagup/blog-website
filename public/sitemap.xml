@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -458,7 +458,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/api-testing-tools</loc>
-    <lastmod>2026-06-11</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/06/api_testing_tools_featured_image_v2-scaled.webp</image:loc>
@@ -646,7 +646,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/best-open-source-test-management-tools</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/06/Open-Source-Test-Management-Tools-in-2026.webp</image:loc>
@@ -907,7 +907,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/complete-guide-to-ci-testing</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/A-Complete-Guide-to-CI-Testing-Benefits-Tools-Workflow.webp</image:loc>
@@ -1823,7 +1823,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/integration-testing-a-comprehensive-guide</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/ChatGPT-Image-Jun-30-2026-04_35_54-PM.webp</image:loc>
@@ -1877,7 +1877,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/introduction-to-shift-left-testing</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/08/Shift-Left-Testing-e1722919942749.webp</image:loc>
@@ -2037,7 +2037,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/mastering-api-test-automation-best-practices-and-tools</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/10/Mastering-API-Test-Automation-e1709840517552.webp</image:loc>
@@ -2484,7 +2484,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-testing-tools</loc>
-    <lastmod>2026-06-22</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Top-Regression-Testing-Tools-for-2026-Compared.png</image:loc>
@@ -2716,7 +2716,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-development-tools</loc>
-    <lastmod>2026-07-06</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/05/Top-Software-Development-Tools-in-2025.webp</image:loc>
@@ -2824,7 +2824,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-testing-strategies</loc>
-    <lastmod>2026-06-30</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/software-testing-Strategies.webp</image:loc>
@@ -2983,7 +2983,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-automation-tools</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-07-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Best-Test-Automation-Tools-Comparison-Cover-Image.webp</image:loc>
@@ -3404,7 +3404,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/types-of-software-testing</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/Types-of-Software-Testing-Explained-2026-Guide.webp</image:loc>
@@ -4148,7 +4148,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-test-planning</loc>
-    <lastmod>2026-04-15</lastmod>
+    <lastmod>2026-07-17</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/02/What-is-Test-Planning-e1739267542953.webp</image:loc>
