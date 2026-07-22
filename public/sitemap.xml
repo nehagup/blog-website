@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -252,7 +252,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/ai-powered-test-automation</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/03/AI-powered-test-automation-e1742445888402.webp</image:loc>
@@ -1841,7 +1841,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/introduction-to-database-testing</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/Introduction-to-Database-testing.webp</image:loc>
@@ -2484,7 +2484,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-testing-tools</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-07-22</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Top-Regression-Testing-Tools-for-2026-Compared.png</image:loc>
@@ -2797,7 +2797,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-testing-basics</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/Software-Testing-Basics-Simplified-A-Guide-for-Beginners.webp</image:loc>
@@ -2824,7 +2824,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-testing-strategies</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/software-testing-Strategies.webp</image:loc>
@@ -2974,7 +2974,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-automation-pricing-comparison</loc>
-    <lastmod>2026-05-06</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/10/ChatGPT-Image-Oct-13-2025-12_53_18-PM.webp</image:loc>
@@ -2983,7 +2983,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-automation-tools</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Best-Test-Automation-Tools-Comparison-Cover-Image.webp</image:loc>
@@ -3691,7 +3691,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/vibe-testing</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-07-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/df4ce261-c29a-42ff-b5e5-bd517a7fc97e.webp</image:loc>
