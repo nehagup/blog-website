@@ -13,7 +13,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/technology</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -862,7 +862,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/ci-cd-testing-guide</loc>
-    <lastmod>2026-07-10</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/CICD-Testing-Complete-Guide-to-Continuous-Testing.webp</image:loc>
@@ -1100,7 +1100,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/devops-testing</loc>
-    <lastmod>2025-12-15</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/DevOps-Testing.webp</image:loc>
@@ -1378,7 +1378,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/getting-started-with-keploy</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/10/Getting-Started-with-Keploy-e1709834931653.webp</image:loc>
@@ -1592,7 +1592,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/how-to-create-a-grafana-dashboard-for-keploy-easy-step-by-step-guide</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/10/grafana-dashboard.png</image:loc>
@@ -2653,7 +2653,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/shift-left-vs-shift-right-testing</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/08/Shift-Left-vs-Shift-Right-Testing-Key-Differences-Use-Cases-2026.webp</image:loc>
@@ -2733,7 +2733,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-development-phases</loc>
-    <lastmod>2026-07-15</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/10/Software-Development-Phases-e1709664592421.webp</image:loc>
@@ -2991,7 +2991,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-automation-best-practices</loc>
-    <lastmod>2026-06-09</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/03/Top-Test-Automation-Best-Practices-Every-Team-Should-Follow.webp</image:loc>
@@ -3259,7 +3259,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/top-5-ai-tools-in-2025-developer-should-must-try</loc>
-    <lastmod>2025-02-06</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/02/Top-5-AI-Tools-in-2025-e1738825979607.webp</image:loc>
@@ -3358,7 +3358,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/top-ci-tools-for-efficient-software-development</loc>
-    <lastmod>2025-03-26</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/03/Efficient-Software-Development-with-the-Best-CI-Tools.png</image:loc>
@@ -3430,7 +3430,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/types-of-apis-and-api-architecture</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2022/09/Types-of-APIs-and-API-architecture-e1716986464651.png</image:loc>
@@ -3448,7 +3448,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/types-of-software-testing</loc>
-    <lastmod>2026-08-05</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/Types-of-Software-Testing-Explained-2026-Guide.webp</image:loc>
@@ -3484,7 +3484,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/understand-the-role-of-continuous-testing-in-ci-cd</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/02/The-Continuous-Testing-Way-e1707464129272.webp</image:loc>
@@ -4193,7 +4193,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-test-automation</loc>
-    <lastmod>2026-08-14</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/Test-Automation-Cover-Image.webp</image:loc>
@@ -4229,7 +4229,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-unit-testing-anyways</loc>
-    <lastmod>2025-06-20</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2022/12/What-is-unit-testing.webp</image:loc>
@@ -4537,7 +4537,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/technology/integration-of-e2e-testing-in-a-cicd-pipeline</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/05/Integration-of-E2E-Testing.jpg</image:loc>
