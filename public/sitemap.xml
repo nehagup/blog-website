@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -1261,7 +1261,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/exploring-end-to-end-testing-with-ai</loc>
-    <lastmod>2025-06-17</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/11/Exploring-End-to-End-e1709626093169.webp</image:loc>
@@ -1360,7 +1360,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/generative-ai-and-ml-comparison</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/Generative-AI-vs-Machine-Learning.webp</image:loc>
@@ -1414,7 +1414,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/good-vs-bad-unit-tests-tips-for-making-the-best-decision</loc>
-    <lastmod>2025-07-29</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/01/Good-vs-Bad-Unit-Tests.webp</image:loc>
@@ -1441,7 +1441,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/grpc-vs-rest-a-comparative-guide</loc>
-    <lastmod>2025-10-05</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/06/gRPC-vs.-REST-e1719083355428.webp</image:loc>
@@ -1521,7 +1521,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/how-exploratory-testing-can-improve-software-quality</loc>
-    <lastmod>2025-06-19</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/11/Exploratory-Testing.webp</image:loc>
@@ -1556,7 +1556,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/how-to-check-network-latency</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/How-to-Check-Network-Latency.png</image:loc>
@@ -2215,7 +2215,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/my-keploy-api-fellowship-journey</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2022/08/API-Fellowship-Journey-e1712312597509.png</image:loc>
@@ -2394,7 +2394,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/python-switch-case-how-to-implement</loc>
-    <lastmod>2025-06-26</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/06/Python-Switch-Case.webp</image:loc>
@@ -2430,7 +2430,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/qa-automation-revolutionizing-software-testing</loc>
-    <lastmod>2026-02-27</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/08/QA-Automation.webp</image:loc>
@@ -2447,7 +2447,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/quality-assurance-vs-quality-control</loc>
-    <lastmod>2025-08-11</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/Quality-Assurance-vs-Quality-Control.webp</image:loc>
@@ -2724,7 +2724,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-development-engineer-in-test-meaning-role-and-salary-insights</loc>
-    <lastmod>2025-06-18</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/02/Software-Development-Engineer-in-Test-e1739427073444.webp</image:loc>
@@ -2886,7 +2886,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/staging-vs-production-key-differences-explained</loc>
-    <lastmod>2025-09-16</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/12/Staging-vs.-Production.webp</image:loc>
@@ -3108,7 +3108,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/testing-bunjs-web-application-with-cucumber-js-and-keploy</loc>
-    <lastmod>2025-06-19</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/05/Testing-BunJs-Web-Application-with-Cucumber-JS-and-Keploy.webp</image:loc>
@@ -3529,7 +3529,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/understanding-different-types-of-behavioral-unit-tests</loc>
-    <lastmod>2025-06-18</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/01/Understanding-Different-Types-of-Behavioral-Unit-Tests.webp</image:loc>
@@ -3546,7 +3546,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/understanding-http-status-codes</loc>
-    <lastmod>2026-04-04</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/06/Understanding-HTTP-Status-Codes-e1719229958471.webp</image:loc>
@@ -3609,7 +3609,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/understanding-the-differences-between-windsurf-and-cursorai</loc>
-    <lastmod>2025-07-08</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/Understanding-the-Differences-Between-Windsurf-and-CursorAI.webp</image:loc>
@@ -3834,7 +3834,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-a-flaky-test</loc>
-    <lastmod>2026-08-06</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/What-is-a-Flaky-Test.webp</image:loc>
@@ -4095,7 +4095,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-quality-engineering-software</loc>
-    <lastmod>2025-06-20</lastmod>
+    <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/12/Simple-Technology-Blog-Banner-1-e1705263575277.png</image:loc>
