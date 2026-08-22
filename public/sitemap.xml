@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -1369,7 +1369,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/generative-ai-testing-tools</loc>
-    <lastmod>2026-07-02</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/Generative-AI-Testing-Tools-The-Next-Evolution-of-Test-Automation.webp</image:loc>
@@ -2081,7 +2081,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/mastering-node-js-backend-testing-with-mocha-and-chai</loc>
-    <lastmod>2026-08-17</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/10/Node.js-Backend-Testing.webp</image:loc>
@@ -3394,11 +3394,11 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/top-test-automation-frameworks</loc>
-    <lastmod>2026-07-20</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.70</priority>
     <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/Top-10-Test-Automation-Frameworks-in-2026-Compared.webp</image:loc>
-      <image:title>Top 10 Test Automation Frameworks</image:title>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/08/Top-Test-Automation-Frameworks-Explained-and-Compared.webp</image:loc>
+      <image:title>Top Test Automation Frameworks Explained and Compared</image:title>
     </image:image>
   </url>
   <url>
@@ -4175,7 +4175,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-spiral-model-in-software-engineering</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-08-21</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/What-is-Spiral-Model-in-Software-Engineering.webp</image:loc>
