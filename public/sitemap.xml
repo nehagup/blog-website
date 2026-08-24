@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-08-24</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-08-21</lastmod>
+    <lastmod>2026-08-24</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -2434,6 +2434,15 @@
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/08/QA-Automation.webp</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://keploy.io/blog/community/qa-testing-tools</loc>
+    <lastmod>2026-08-24</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/08/QA-Testing-Tools-The-Best-Options-by-Category-2026.webp</image:loc>
+      <image:title>QA Testing Tools</image:title>
     </image:image>
   </url>
   <url>
