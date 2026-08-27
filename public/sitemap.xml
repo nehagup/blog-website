@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-08-25</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -610,7 +610,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/best-devops-automation-tools-in-2025</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/Best-DevOps-Automation-Tools-in-2025.webp</image:loc>
@@ -916,7 +916,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/complete-guide-to-ci-testing</loc>
-    <lastmod>2026-07-16</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/A-Complete-Guide-to-CI-Testing-Benefits-Tools-Workflow.webp</image:loc>
@@ -1100,7 +1100,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/devops-testing</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/DevOps-Testing.webp</image:loc>
@@ -1877,7 +1877,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/introduction-to-selenium-software-testing</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/Introduction-To-Selenium-Software-Testing.webp</image:loc>
@@ -2501,7 +2501,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-testing-an-introductory-guide</loc>
-    <lastmod>2026-06-15</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/03/Regression-Testing-Guide-Tools-Best-Practices.webp</image:loc>
@@ -2654,7 +2654,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/self-healing-test-automation</loc>
-    <lastmod>2026-05-27</lastmod>
+    <lastmod>2026-08-27</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/ChatGPT-Image-May-27-2026-05_14_26-PM.webp</image:loc>
@@ -3036,7 +3036,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-bed-in-software-testing</loc>
-    <lastmod>2026-07-28</lastmod>
+    <lastmod>2026-08-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/test-bed-banner1.png</image:loc>
