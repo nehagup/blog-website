@@ -1198,30 +1198,12 @@
     </image:image>
   </url>
   <url>
-    <loc>https://keploy.io/blog/community/essential-free-api-testing-tools-every-developer-should-know</loc>
-    <lastmod>2026-04-29</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2024/10/My-Banner-3.png</image:loc>
-      <image:title>Discover the top free API testing tools every developer should know. Enhance your software development with Postman, SoapUI, Thunder Client, and more.</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://keploy.io/blog/community/essential-functional-testing-tools-for-mobile-development</loc>
     <lastmod>2026-04-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/01/mobile.webp</image:loc>
       <image:title>Top Tools for Mobile Functional Testing</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://keploy.io/blog/community/everything-you-need-to-know-about-api-testing</loc>
-    <lastmod>2025-10-17</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2024/12/api-testing-guide.webp</image:loc>
-      <image:title>api testing guide</image:title>
     </image:image>
   </url>
   <url>
@@ -1350,15 +1332,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://keploy.io/blog/community/gemini-pro-vs-openai-benchmark-ai-for-software-testing</loc>
-    <lastmod>2026-08-17</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2025/06/image.png</image:loc>
-      <image:title>Gemini 2.5 Pro vs OpenAI o1</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://keploy.io/blog/community/generative-ai-and-ml-comparison</loc>
     <lastmod>2026-08-20</lastmod>
     <priority>0.70</priority>
@@ -1455,15 +1428,6 @@
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/11/python-find-in-list.webp</image:loc>
       <image:title>python find in list</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://keploy.io/blog/community/guide-to-automated-testing-tools-in-2025</loc>
-    <lastmod>2026-04-28</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2025/05/Guide-to-Automated-Testing-Tools-in-2025.webp</image:loc>
-      <image:title>Guide to Automated Testing Tools in 2025</image:title>
     </image:image>
   </url>
   <url>
@@ -2518,15 +2482,6 @@
     </image:image>
   </url>
   <url>
-    <loc>https://keploy.io/blog/community/regression-testing-tools-rankings-2025</loc>
-    <lastmod>2026-04-04</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2025/03/Regression-Testing-Tools-Rankings-2025-e1741236933967.webp</image:loc>
-      <image:title>Explore 2026&apos;s top regression testing tools with AI advances, efficiency metrics, and detailed rankings for improved software testing</image:title>
-    </image:image>
-  </url>
-  <url>
     <loc>https://keploy.io/blog/community/reliability-testing-a-complete-guide</loc>
     <lastmod>2026-08-18</lastmod>
     <priority>0.70</priority>
@@ -2542,15 +2497,6 @@
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/replit-vs-cursor.webp</image:loc>
       <image:title>Replit vs Cursor</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://keploy.io/blog/community/rest-api-testing-guide</loc>
-    <lastmod>2026-04-04</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/REST-API-Testing.webp</image:loc>
-      <image:title>REST API Testing</image:title>
     </image:image>
   </url>
   <url>
@@ -2752,15 +2698,6 @@
   <url>
     <loc>https://keploy.io/blog/community/software-development-tools</loc>
     <lastmod>2026-07-16</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2025/05/Top-Software-Development-Tools-in-2025.webp</image:loc>
-      <image:title>Software Development Tools</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://keploy.io/blog/community/software-development-tools-in-2025</loc>
-    <lastmod>2026-06-11</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/05/Top-Software-Development-Tools-in-2025.webp</image:loc>
@@ -3327,15 +3264,6 @@
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/10/performance-tools.webp</image:loc>
       <image:title>Top 5 Tools for Performance Testing: Boost Your Application’s Speed</image:title>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://keploy.io/blog/community/top-7-test-automation-tools-boost-your-software-testing-efficiency</loc>
-    <lastmod>2026-05-12</lastmod>
-    <priority>0.70</priority>
-    <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Best-Test-Automation-Tools-Comparison-Cover-Image.webp</image:loc>
-      <image:title>Best Test Automation Tools Comparison - Keploy</image:title>
     </image:image>
   </url>
   <url>
@@ -4506,6 +4434,15 @@
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/Future-of-Test-Automation-in-AI-Era-scaled.webp</image:loc>
       <image:title>Future of Test Automation in AI Era</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://keploy.io/blog/technology/gemini-pro-vs-openai-benchmark-ai-for-software-testing</loc>
+    <lastmod>2026-08-17</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2025/06/image.png</image:loc>
+      <image:title>Gemini 2.5 Pro vs OpenAI o1</image:title>
     </image:image>
   </url>
   <url>
