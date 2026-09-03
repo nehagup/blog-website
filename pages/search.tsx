@@ -5,7 +5,7 @@ import Layout from "../components/layout";
 import MoreStories from "../components/more-stories";
 import { getAllPostsForSearch } from "../lib/api"; // This now exists
 import { Post } from "../types/post";
-import { HOME_OG_IMAGE_URL } from "../lib/constants";
+import { HOME_OG_IMAGE_URL, S3_ASSET_BASE } from "../lib/constants";
 import { getBreadcrumbListSchema, SITE_URL } from "../lib/structured-data";
 import { REVALIDATE_CONTENT } from "../lib/isr";
 
@@ -18,6 +18,9 @@ export default function SearchPage({ allPosts }: { allPosts: { node: Post }[] })
     ? `Search Results for "${query}" | Keploy Blog` 
     : "Search | Keploy Blog";
 
+  // This page is noindex, so search engines don't process its structured data.
+  // SearchResultsPage was dead markup here (review #8); the breadcrumb is kept
+  // only as a lightweight nav hint. `query` is still used for the visible UI.
   const structuredData = [
     getBreadcrumbListSchema([
       { name: "Home", url: SITE_URL },
@@ -30,7 +33,7 @@ export default function SearchPage({ allPosts }: { allPosts: { node: Post }[] })
       preview={false} // Required prop
       Title={pageTitle} // Required prop
       Description={query ? `Search results for "${query}" on the Keploy Blog — find articles on testing, automation, and developer tools.` : `Search the Keploy Blog for articles on API testing, test automation, CI/CD, developer tools, and software quality engineering.`}
-      featuredImage={HOME_OG_IMAGE_URL || "/blog/images/blog-bunny.png"} // Fallback to string if constant fails
+      featuredImage={HOME_OG_IMAGE_URL || `${S3_ASSET_BASE}/images/blog-bunny.webp`} // Fallback to string if constant fails
       structuredData={structuredData}
     >
       <Head>
