@@ -297,7 +297,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/ai-testing-tools</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/best-ai-testing-tools-banner.webp</image:loc>
@@ -862,7 +862,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/ci-cd-testing-guide</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/CICD-Testing-Complete-Guide-to-Continuous-Testing.webp</image:loc>
@@ -916,7 +916,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/complete-guide-to-ci-testing</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/A-Complete-Guide-to-CI-Testing-Benefits-Tools-Workflow.webp</image:loc>
@@ -1082,6 +1082,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://keploy.io/blog/community/dependency-mocking-service-virtualization</loc>
+    <lastmod>2026-09-10</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/Dependency-Mocking-and-Service-Virtualization-Make-Every-CI-Test-Deterministic.webp</image:loc>
+      <image:title>Dependency Mocking and Service Virtualization Make Every CI Test Deterministic</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://keploy.io/blog/community/deployment-strategies</loc>
     <lastmod>2026-09-09</lastmod>
     <priority>0.70</priority>
@@ -1190,7 +1199,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/end-to-end-testing-guide</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/A-Complete-Guide-to-End-to-End-Testing-with-Keploy.webp</image:loc>
@@ -1796,7 +1805,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/integration-testing-a-comprehensive-guide</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/ChatGPT-Image-Jun-30-2026-04_35_54-PM.webp</image:loc>
@@ -1948,7 +1957,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/know-about-record-and-replay-testing</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/06/Frame-145-1-scaled.webp</image:loc>
@@ -2501,7 +2510,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/rest-assured-alternatives-for-api-testing</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/03/Screenshot-2025-03-22-101148.png</image:loc>
@@ -2796,7 +2805,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-testing-strategies</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/02/software-testing-Strategies.webp</image:loc>
@@ -3009,7 +3018,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-data-management</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/04/ChatGPT-Image-May-27-2026-05_23_46-PM.webp</image:loc>
@@ -3367,7 +3376,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/types-of-api-testing</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-10</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/04/api_testing_feature_image-e1776413750405.webp</image:loc>
