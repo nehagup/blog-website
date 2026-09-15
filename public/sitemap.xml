@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-09-13</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -2099,7 +2099,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/mock-testing</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/06/Mock-Testing-A-Complete-Guide-for-Developers-2026.webp</image:loc>
@@ -2564,7 +2564,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/sandbox-testing</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/What-Is-Sandbox-Testing.webp</image:loc>
@@ -2876,7 +2876,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/stubbing-and-verifying-my-journey-to-smarter-testing</loc>
-    <lastmod>2025-06-19</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/01/Stubbing-and-Verifying.webp</image:loc>
@@ -3609,7 +3609,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/unit-testing-vs-integration-testing-a-comprehensive-guide</loc>
-    <lastmod>2026-07-17</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/12/Unit-Testing-vs-Integration-Testing.webp</image:loc>
