@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-09-15</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -735,6 +735,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://keploy.io/blog/community/bruno-api-testing</loc>
+    <lastmod>2026-09-16</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/bruno-api-testing-feature-3.webp</image:loc>
+      <image:title>Bruno API testing: a complete guide (2026)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://keploy.io/blog/community/bug-bashing-guide</loc>
     <lastmod>2026-04-29</lastmod>
     <priority>0.70</priority>
@@ -1199,7 +1208,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/end-to-end-testing-guide</loc>
-    <lastmod>2026-09-10</lastmod>
+    <lastmod>2026-09-16</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/A-Complete-Guide-to-End-to-End-Testing-with-Keploy.webp</image:loc>
@@ -2841,11 +2850,11 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/staging-vs-production-key-differences-explained</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-15</lastmod>
     <priority>0.70</priority>
     <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2024/12/Staging-vs.-Production.webp</image:loc>
-      <image:title>Staging vs. Production</image:title>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/Staging-vs-Production-Explained.webp</image:loc>
+      <image:title>Staging vs Production in Software Testing</image:title>
     </image:image>
   </url>
   <url>
