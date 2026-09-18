@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-09-17</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -2282,6 +2282,15 @@
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/06/Platform-engineering-vs-DevOps.webp</image:loc>
       <image:title>Platform engineering vs DevOps</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://keploy.io/blog/community/playwright-api-testing</loc>
+    <lastmod>2026-09-18</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/Playwright-API-Testing-A-Complete-Guide-2026.webp</image:loc>
+      <image:title>Playwright API Testing: A Complete Guide (2026)</image:title>
     </image:image>
   </url>
   <url>
