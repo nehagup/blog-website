@@ -3,17 +3,17 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-09-18</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/technology</loc>
-    <lastmod>2026-08-19</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -306,7 +306,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/all-about-api-testing-keploy</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/11/All-about-API-testing-e1709285587703.webp</image:loc>
@@ -342,7 +342,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/an-introduction-to-api-testing</loc>
-    <lastmod>2026-04-29</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2022/12/An-Introduction-To-API.webp</image:loc>
@@ -1306,7 +1306,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/frustrations-of-api-testing</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2022/08/Frustrations-of-API-Testing-e1712046485653.webp</image:loc>
@@ -2295,7 +2295,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/playwright-vs-cypress-choosing-the-best-e2e-testing-framework</loc>
-    <lastmod>2026-06-05</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/11/Playwright-vs-Cypress.webp</image:loc>
@@ -2304,7 +2304,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/playwright-vs-selenium</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/Playwright-vs-Selenium.webp</image:loc>
@@ -4166,7 +4166,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-test-automation</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-09-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/Test-Automation-Cover-Image.webp</image:loc>
@@ -4589,7 +4589,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/technology/playwright-alternative-for-api-testing</loc>
-    <lastmod>2026-04-30</lastmod>
+    <lastmod>2026-09-18</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/12/Playwright-Alternative-for-API-Testing.webp</image:loc>
