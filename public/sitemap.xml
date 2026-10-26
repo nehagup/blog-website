@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-10-24</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -2527,7 +2527,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-testing-tools</loc>
-    <lastmod>2026-10-19</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Top-Regression-Testing-Tools-for-2026-Compared.png</image:loc>
@@ -3679,7 +3679,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/unit-testing-vs-regression-testing</loc>
-    <lastmod>2026-04-20</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/06/Unit-Testing-vs-Regression-Testing.webp</image:loc>
