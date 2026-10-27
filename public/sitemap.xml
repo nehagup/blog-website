@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -288,7 +288,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/ai-testing-prompt-engineering</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/02/AI-Testing-Prompt-Engineering-e1740632841356.webp</image:loc>
@@ -994,7 +994,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/contract-testing-tools</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/12-Best-Contract-Testing-Tools-in-2026.webp</image:loc>
@@ -1109,7 +1109,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/dependency-mocking-service-virtualization</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-27</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/Dependency-Mocking-and-Service-Virtualization-Make-Every-CI-Test-Deterministic.webp</image:loc>
@@ -2572,7 +2572,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/retesting-in-software-testing</loc>
-    <lastmod>2026-10-06</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/10/Retesting-in-Software-Testing-Cover-Image.webp</image:loc>
@@ -2704,7 +2704,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/smoke-testing-vs-regression-testing</loc>
-    <lastmod>2026-09-29</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/06/Smoke-Testing-vs-Regression-Testing.webp</image:loc>
@@ -2812,7 +2812,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/software-regression-testing-services</loc>
-    <lastmod>2026-06-12</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/Regression-Testing-Services-for-Teams.webp</image:loc>
@@ -3760,7 +3760,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/visual-regression-testing</loc>
-    <lastmod>2026-03-02</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/Catch-UI-Issues-with-Visual-Regression-Testing.webp</image:loc>
@@ -4262,7 +4262,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-user-acceptance-testing</loc>
-    <lastmod>2026-09-09</lastmod>
+    <lastmod>2026-10-26</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/09/4311a174-a5d3-4c4e-9b01-0f44024b.webp</image:loc>
