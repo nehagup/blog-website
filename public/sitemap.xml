@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -438,6 +438,15 @@
     </image:image>
   </url>
   <url>
+    <loc>https://keploy.io/blog/community/api-regression-testing</loc>
+    <lastmod>2026-10-29</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/10/7ea59a82-c94d-4df7-bfb6-96ae76ea7ffd-1.webp</image:loc>
+      <image:title>API Regression Testing: What to Test, How &amp; When (2026)</image:title>
+    </image:image>
+  </url>
+  <url>
     <loc>https://keploy.io/blog/community/api-security-testing-101</loc>
     <lastmod>2026-04-28</lastmod>
     <priority>0.70</priority>
@@ -502,7 +511,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/automated-regression-testing</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/04/Cover-Image-Automated-Regression-Testing.webp</image:loc>
@@ -994,7 +1003,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/contract-testing-tools</loc>
-    <lastmod>2026-10-26</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/12-Best-Contract-Testing-Tools-in-2026.webp</image:loc>
@@ -1109,7 +1118,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/dependency-mocking-service-virtualization</loc>
-    <lastmod>2026-10-27</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/Dependency-Mocking-and-Service-Virtualization-Make-Every-CI-Test-Deterministic.webp</image:loc>
@@ -2509,7 +2518,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-testing-an-introductory-guide</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/03/Regression-Testing-Guide-Tools-Best-Practices.webp</image:loc>
@@ -2527,7 +2536,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-testing-tools</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Top-Regression-Testing-Tools-for-2026-Compared.png</image:loc>
@@ -2670,7 +2679,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/service-virtualization</loc>
-    <lastmod>2026-10-16</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/What-Is-Service-Virtualization-Definition-Types-Tools.webp</image:loc>
