@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -1082,7 +1082,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/decoding-brd-a-devs-guide-to-functional-and-non-functional-requirements-in-testing</loc>
-    <lastmod>2025-06-19</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/11/Decoding-BRD-e1709276501622.webp</image:loc>
@@ -2017,7 +2017,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/levels-of-software-testing</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/levels-of-software-testing-feature.png</image:loc>
@@ -2518,7 +2518,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-testing-an-introductory-guide</loc>
-    <lastmod>2026-10-29</lastmod>
+    <lastmod>2026-10-30</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/03/Regression-Testing-Guide-Tools-Best-Practices.webp</image:loc>
@@ -3509,7 +3509,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/uft-testing-guide</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-10-29</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/UFT-Testing.webp</image:loc>
