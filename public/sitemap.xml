@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-11-05</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -63,7 +63,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/5-best-open-source-api-testing-tools-in-2025</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/5-Best-Open-Source-API-Testing-Tools-in-2025.webp</image:loc>
@@ -439,7 +439,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/api-regression-testing</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/10/7ea59a82-c94d-4df7-bfb6-96ae76ea7ffd-1.webp</image:loc>
@@ -735,7 +735,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/black-box-testing-and-white-box-testing-a-complete-guide</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Black-box-Testing-and-White-Box-Testing.webp</image:loc>
@@ -744,7 +744,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/black-box-testing-techniques</loc>
-    <lastmod>2026-11-03</lastmod>
+    <lastmod>2026-11-06</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/07/Black-Box-Testing-Techniques-A-Practical-Guide-2026.webp</image:loc>
@@ -1364,6 +1364,15 @@
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2023/12/Functional-Testing-e1709239387537.webp</image:loc>
       <image:title>Functional testing is a type of software testing that functionalities by testing its features against the specified requirements.</image:title>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://keploy.io/blog/community/functional-vs-regression-testing</loc>
+    <lastmod>2026-11-05</lastmod>
+    <priority>0.70</priority>
+    <image:image>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/10/a2-cover.webp</image:loc>
+      <image:title>functional vs regression testing</image:title>
     </image:image>
   </url>
   <url>
