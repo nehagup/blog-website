@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-11-10</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -63,7 +63,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/5-best-open-source-api-testing-tools-in-2025</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/08/5-Best-Open-Source-API-Testing-Tools-in-2025.webp</image:loc>
@@ -368,7 +368,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/api-automation-testing</loc>
-    <lastmod>2026-10-21</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/API-Automation-Testing.webp</image:loc>
@@ -735,7 +735,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/black-box-testing-and-white-box-testing-a-complete-guide</loc>
-    <lastmod>2026-11-06</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/05/Black-box-Testing-and-White-Box-Testing.webp</image:loc>
@@ -1849,11 +1849,11 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/integration-testing-a-comprehensive-guide</loc>
-    <lastmod>2026-11-01</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.70</priority>
     <image:image>
-      <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/ChatGPT-Image-Jun-30-2026-04_35_54-PM.webp</image:loc>
-      <image:title>Integration testing illustration showing APIs, frontend, backend services, databases, and microservices connected to validate communication and data flow</image:title>
+      <image:loc>https://wp.keploy.io/wp-content/uploads/2026/11/featured-integration-testing.webp</image:loc>
+      <image:title>Integration testing: complete guide with types and examples</image:title>
     </image:image>
   </url>
   <url>
@@ -2330,7 +2330,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/playwright-api-testing</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/09/Playwright-API-Testing-A-Complete-Guide-2026.webp</image:loc>
@@ -2366,7 +2366,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/postman-alternative</loc>
-    <lastmod>2026-10-23</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/01/featured-postman-alternative1.webp</image:loc>
@@ -2536,7 +2536,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/regression-bug</loc>
-    <lastmod>2026-11-09</lastmod>
+    <lastmod>2026-11-11</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/11/What-Is-a-Regression-Bug-Causes-and-Real-Examples.webp</image:loc>
