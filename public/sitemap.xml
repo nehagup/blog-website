@@ -3,12 +3,12 @@
         xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://keploy.io/blog</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>1.00</priority>
   </url>
   <url>
     <loc>https://keploy.io/blog/community</loc>
-    <lastmod>2026-11-17</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.80</priority>
   </url>
   <url>
@@ -565,7 +565,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/bdd-testing-with-cucumber</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/01/BDD-Testing-with-Cucumber-js-e1705779818445.webp</image:loc>
@@ -2429,7 +2429,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/python-automation-testing-guide</loc>
-    <lastmod>2026-10-28</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/07/Python-Automation-Testing-Guide.webp</image:loc>
@@ -3169,7 +3169,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/test-driven-development-guide</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2025/12/What-Is-TDD.webp</image:loc>
@@ -3205,7 +3205,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/testing-bunjs-web-application-with-cucumber-js-and-keploy</loc>
-    <lastmod>2026-08-20</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/05/Testing-BunJs-Web-Application-with-Cucumber-JS-and-Keploy.webp</image:loc>
@@ -3661,7 +3661,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/understanding-tdd-and-bdd-a-guide-for-developers</loc>
-    <lastmod>2026-09-30</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2026/03/TDDVsBDDinSoftwareDevelopment.webp</image:loc>
@@ -3967,7 +3967,7 @@
   </url>
   <url>
     <loc>https://keploy.io/blog/community/what-is-acceptance-testing</loc>
-    <lastmod>2026-08-18</lastmod>
+    <lastmod>2026-11-19</lastmod>
     <priority>0.70</priority>
     <image:image>
       <image:loc>https://wp.keploy.io/wp-content/uploads/2024/09/Acceptance-Testing.webp</image:loc>
